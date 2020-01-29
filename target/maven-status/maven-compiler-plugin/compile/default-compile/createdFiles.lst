@@ -1,0 +1,4 @@
+io\trademe\app\ParseTheParcelApp.class
+io\trademe\data\PackageType.class
+io\trademe\data\AppConstants.class
+io\trademe\util\AppUtils.class

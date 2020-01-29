@@ -1,0 +1,1 @@
+mvn clean package & cls & java -jar target/parse-the-parcel-app.jar
